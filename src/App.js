@@ -10,7 +10,8 @@ import Footer from './components/Footer/Footer'
 import exercises from './exerciseData/exercises.json'
 import './App.css';
 
-const times = [10, 15, 30, 45, 60]
+const times = [10, 15, 30, 45, 60]; //exercisec duration options
+const exercisesToDisplay = 3; //how much rows would be in table
 
 class App extends Component {
   constructor(props) {
@@ -35,7 +36,7 @@ class App extends Component {
     if (searchTerm === null || searchTerm.length < 1) {
       this.setState({searchedActivities:[]})
     } else {
-      this.setState({searchedActivities: exercises.data.filter(exercise => exercise.exercise.toLowerCase().includes(searchTerm.toLowerCase())).slice(0,3)})
+      this.setState({searchedActivities: exercises.data.filter(exercise => exercise.exercise.toLowerCase().includes(searchTerm.toLowerCase())).slice(0, exercisesToDisplay)})
     }
   }
 

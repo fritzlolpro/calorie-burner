@@ -13,9 +13,11 @@ const Table = ({ values, time, serchString }) => {
       <span className="table-header activity">Activity</span>
       <span className="table-header cal-min">Cal / {time} min</span>
       {values.map((x, i) => {
-      const exerciseName = reactStringReplace(x.exercise, serchString, match => (
-        <b>{match}</b>
-      ));
+
+        // regular replace can't work with tags in JSX reactStringReplace do the job
+        const exerciseName = reactStringReplace(x.exercise, serchString, match => (
+          <b>{match}</b>
+        ));
 
         return (
           <div className="activity-line" key={i}>
