@@ -1,0 +1,204 @@
+.App {
+  text-align: center;
+  font-family: 'Helvetica';
+}
+.App a {
+  text-decoration: none;
+  color: inherit;
+}
+.App .header {
+  height: 300px;
+  background: #47cb8e;
+  border-bottom-left-radius: 50% 20%;
+  border-bottom-right-radius: 50% 20%;
+  background: -webkit-linear-gradient(left, #47cb8e 0%, #1cb597 100%);
+  background: linear-gradient(90deg, #47cb8e 0%, #1cb597 100%);
+  z-index: -1;
+  padding-top: 40px;
+  color: #fff;
+}
+@media only screen and (max-width : 479px) and (min-width : 319px) {
+  .App .header {
+    height: 7em;
+  }
+}
+.App .header h1 {
+  font-size: 3em;
+}
+@media only screen and (max-width : 479px) and (min-width : 319px) {
+  .App .header h1 {
+    margin-bottom: 48px;
+    font-size: 2em;
+  }
+}
+.App .header h2 {
+  font-weight: 200;
+  max-width: 40%;
+  margin: 0 auto;
+}
+@media only screen and (max-width : 479px) and (min-width : 319px) {
+  .App .header h2 {
+    max-width: 80%;
+    font-size: 19px;
+    color: #77746a;
+  }
+}
+.App .header a {
+  font-weight: 600;
+}
+.App .header .line {
+  border-bottom: 2px solid #fff;
+  width: 4em;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+@media only screen and (max-width : 479px) and (min-width : 319px) {
+  .App .header .line {
+    display: none;
+  }
+}
+.App .plate {
+  position: relative;
+  top: -50px;
+  box-sizing: border-box;
+  padding: 3em 4.2em;
+  margin-bottom: 40px;
+  background-color: #fff;
+  border-radius: 10px;
+  height: 100%;
+  display: inline-block;
+  z-index: 0;
+  width: 40%;
+  box-shadow: 0px 14px 67px -19px rgba(0, 0, 0, 0.76);
+}
+@media only screen and (max-width : 479px) and (min-width : 319px) {
+  .App .plate {
+    margin-top: 120px;
+    width: 100%;
+    padding: 2em;
+    top: 0px;
+  }
+}
+@media only screen and (max-width : 1025px) and (min-width : 480px) {
+  .App .plate {
+    margin-top: 20px;
+    width: 80%;
+    padding: 3em;
+    top: -40px;
+  }
+}
+.App .plate input,
+.App .plate select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  border: 0;
+  vertical-align: top;
+  font-size: inherit;
+  border-bottom: 1px solid #47cb8e;
+}
+.App .plate input:focus,
+.App .plate select:focus {
+  outline: none;
+}
+.App .plate input {
+  width: 220px;
+  float: left;
+  height: 32px;
+  margin-right: 10px;
+}
+@media only screen and (max-width : 479px) and (min-width : 319px) {
+  .App .plate input {
+    width: 160px;
+  }
+}
+.App .plate select {
+  float: right;
+  width: 110px;
+  height: 35px;
+  background-image: url('img/drop-arrow.svg');
+  background-repeat: no-repeat;
+  background-position: 90px center;
+}
+@media only screen and (max-width : 479px) and (min-width : 319px) {
+  .App .plate select {
+    width: 80px;
+    background-position: 60px center;
+  }
+}
+.App .plate .info-table {
+  margin: 0 auto;
+  margin-top: 64px;
+}
+@media only screen and (max-width : 479px) and (min-width : 319px) {
+  .App .plate .info-table {
+    margin-top: 55px;
+  }
+}
+.App .plate .info-table .table-header {
+  margin-bottom: 18px;
+  text-transform: uppercase;
+  letter-spacing: .2em;
+  font-size: 14px;
+  font-weight: 600;
+  color: #59cf97;
+}
+.App .plate .info-table .activity {
+  float: left;
+}
+.App .plate .info-table .cal-min {
+  float: right;
+}
+.App .plate .info-table .exercise {
+  float: left;
+  text-align: left;
+  max-width: 70%;
+}
+.App .plate .info-table .calories-burn {
+  float: right;
+}
+.App .plate .info-table .activity-line {
+  width: 100%;
+  height: 100%;
+  display: block;
+  overflow: hidden;
+  margin-bottom: 18px;
+}
+.App .plate .help-msg-cont .arrow-cont {
+  position: relative;
+  top: 49px;
+  display: inline-block;
+  left: -39%;
+}
+@media only screen and (max-width : 479px) and (min-width : 319px) {
+  .App .plate .help-msg-cont .arrow-cont {
+    left: -90px;
+    top: 37px;
+  }
+}
+.App .plate .help-msg-cont .help-msg {
+  color: #919191;
+  font-size: 19px;
+  width: 70%;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+.App footer {
+  position: absolute;
+  padding-top: 10px;
+  padding-bottom: 30px;
+  left: 50%;
+  bottom: 1px;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  width: 100%;
+}
+@media only screen and (max-width : 479px) and (min-width : 319px) {
+  .App footer {
+    bottom: -77px;
+  }
+}
+.App footer .footer-text {
+  font-size: .8em;
+  color: #77746a;
+}

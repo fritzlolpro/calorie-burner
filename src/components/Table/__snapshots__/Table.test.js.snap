@@ -1,0 +1,458 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Table Renders with props 1`] = `
+ShallowWrapper {
+  "length": 1,
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <Table
+    serchString="AAAAA"
+    time={10}
+    values={
+        Array [
+            Object {
+              "calories": 666,
+              "exercise": "Vodkaball",
+            },
+            Object {
+              "calories": 0,
+              "exercise": "Sleeping",
+            },
+          ]
+    }
+/>,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "host",
+    "props": Object {
+      "children": Array [
+        <span
+          className="table-header activity"
+>
+          Activity
+</span>,
+        <span
+          className="table-header cal-min"
+>
+          Cal / 
+          10
+           min
+</span>,
+        Array [
+          <div
+            className="activity-line"
+>
+            <span
+                        className="exercise"
+            >
+                        Vodkaball
+            </span>
+            <span
+                        className="calories-burn"
+            >
+                        6660
+            </span>
+</div>,
+          <div
+            className="activity-line"
+>
+            <span
+                        className="exercise"
+            >
+                        Sleeping
+            </span>
+            <span
+                        className="calories-burn"
+            />
+</div>,
+        ],
+      ],
+      "className": "info-table",
+    },
+    "ref": null,
+    "rendered": Array [
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": "Activity",
+          "className": "table-header activity",
+        },
+        "ref": null,
+        "rendered": "Activity",
+        "type": "span",
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": Array [
+            "Cal / ",
+            10,
+            " min",
+          ],
+          "className": "table-header cal-min",
+        },
+        "ref": null,
+        "rendered": Array [
+          "Cal / ",
+          10,
+          " min",
+        ],
+        "type": "span",
+      },
+      Object {
+        "instance": null,
+        "key": "0",
+        "nodeType": "host",
+        "props": Object {
+          "children": Array [
+            <span
+              className="exercise"
+>
+              Vodkaball
+</span>,
+            <span
+              className="calories-burn"
+>
+              6660
+</span>,
+          ],
+          "className": "activity-line",
+        },
+        "ref": null,
+        "rendered": Array [
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": Array [
+                "Vodkaball",
+              ],
+              "className": "exercise",
+            },
+            "ref": null,
+            "rendered": Array [
+              "Vodkaball",
+            ],
+            "type": "span",
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": 6660,
+              "className": "calories-burn",
+            },
+            "ref": null,
+            "rendered": 6660,
+            "type": "span",
+          },
+        ],
+        "type": "div",
+      },
+      Object {
+        "instance": null,
+        "key": "1",
+        "nodeType": "host",
+        "props": Object {
+          "children": Array [
+            <span
+              className="exercise"
+>
+              Sleeping
+</span>,
+            <span
+              className="calories-burn"
+/>,
+          ],
+          "className": "activity-line",
+        },
+        "ref": null,
+        "rendered": Array [
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": Array [
+                "Sleeping",
+              ],
+              "className": "exercise",
+            },
+            "ref": null,
+            "rendered": Array [
+              "Sleeping",
+            ],
+            "type": "span",
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": 0,
+              "className": "calories-burn",
+            },
+            "ref": null,
+            "rendered": 0,
+            "type": "span",
+          },
+        ],
+        "type": "div",
+      },
+    ],
+    "type": "div",
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "host",
+      "props": Object {
+        "children": Array [
+          <span
+            className="table-header activity"
+>
+            Activity
+</span>,
+          <span
+            className="table-header cal-min"
+>
+            Cal / 
+            10
+             min
+</span>,
+          Array [
+            <div
+              className="activity-line"
+>
+              <span
+                            className="exercise"
+              >
+                            Vodkaball
+              </span>
+              <span
+                            className="calories-burn"
+              >
+                            6660
+              </span>
+</div>,
+            <div
+              className="activity-line"
+>
+              <span
+                            className="exercise"
+              >
+                            Sleeping
+              </span>
+              <span
+                            className="calories-burn"
+              />
+</div>,
+          ],
+        ],
+        "className": "info-table",
+      },
+      "ref": null,
+      "rendered": Array [
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": "Activity",
+            "className": "table-header activity",
+          },
+          "ref": null,
+          "rendered": "Activity",
+          "type": "span",
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": Array [
+              "Cal / ",
+              10,
+              " min",
+            ],
+            "className": "table-header cal-min",
+          },
+          "ref": null,
+          "rendered": Array [
+            "Cal / ",
+            10,
+            " min",
+          ],
+          "type": "span",
+        },
+        Object {
+          "instance": null,
+          "key": "0",
+          "nodeType": "host",
+          "props": Object {
+            "children": Array [
+              <span
+                className="exercise"
+>
+                Vodkaball
+</span>,
+              <span
+                className="calories-burn"
+>
+                6660
+</span>,
+            ],
+            "className": "activity-line",
+          },
+          "ref": null,
+          "rendered": Array [
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": Array [
+                  "Vodkaball",
+                ],
+                "className": "exercise",
+              },
+              "ref": null,
+              "rendered": Array [
+                "Vodkaball",
+              ],
+              "type": "span",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": 6660,
+                "className": "calories-burn",
+              },
+              "ref": null,
+              "rendered": 6660,
+              "type": "span",
+            },
+          ],
+          "type": "div",
+        },
+        Object {
+          "instance": null,
+          "key": "1",
+          "nodeType": "host",
+          "props": Object {
+            "children": Array [
+              <span
+                className="exercise"
+>
+                Sleeping
+</span>,
+              <span
+                className="calories-burn"
+/>,
+            ],
+            "className": "activity-line",
+          },
+          "ref": null,
+          "rendered": Array [
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": Array [
+                  "Sleeping",
+                ],
+                "className": "exercise",
+              },
+              "ref": null,
+              "rendered": Array [
+                "Sleeping",
+              ],
+              "type": "span",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": 0,
+                "className": "calories-burn",
+              },
+              "ref": null,
+              "rendered": 0,
+              "type": "span",
+            },
+          ],
+          "type": "div",
+        },
+      ],
+      "type": "div",
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+      },
+    },
+  },
+}
+`;
+
+exports[`Table Renders without props 1`] = `
+ShallowWrapper {
+  "length": 1,
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <Table />,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "function",
+    "props": Object {},
+    "ref": null,
+    "rendered": null,
+    "type": [Function],
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "function",
+      "props": Object {},
+      "ref": null,
+      "rendered": null,
+      "type": [Function],
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+      },
+    },
+  },
+}
+`;

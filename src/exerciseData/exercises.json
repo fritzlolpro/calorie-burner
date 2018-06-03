@@ -1,0 +1,1301 @@
+{
+	"data":
+	[
+		{
+			"exercise": "Aerobics, medium impact",
+			"calories": 5.09
+		},
+		{
+			"exercise": "Aerobics, high impact",
+			"calories": 8.52
+		},
+		{
+			"exercise": "Badminton, medium impact",
+			"calories": 4.43
+		},
+		{
+			"exercise": "Badminton, high impact",
+			"calories": 7.28
+		},
+		{
+			"exercise": "Basketball, medium impact",
+			"calories": 5.09
+		},
+		{
+			"exercise": "Basketball, high impact",
+			"calories": 8.27
+		},
+		{
+			"exercise": "Bicycling, medium impact",
+			"calories": 6.8
+		},
+		{
+			"exercise": "Bicycling, high impact",
+			"calories": 11.08
+		},
+		{
+			"exercise": "Spinning, medium impact",
+			"calories": 7.28
+		},
+		{
+			"exercise": "Spinning, high impact",
+			"calories": 11.8
+		},
+		{
+			"exercise": "Body pump",
+			"calories": 9.43
+		},
+		{
+			"exercise": "Pilates",
+			"calories": 3
+		},
+		{
+			"exercise": "Yoga",
+			"calories": 3
+		},
+		{
+			"exercise": "Dancing",
+			"calories": 5.03
+		},
+		{
+			"exercise": "American Football",
+			"calories": 9.43
+		},
+		{
+			"exercise": "Soccer",
+			"calories": 11.23
+		},
+		{
+			"exercise": "Golf",
+			"calories": 5.33
+		},
+		{
+			"exercise": "Hockey",
+			"calories": 9.33
+		},
+		{
+			"exercise": "Tennis",
+			"calories": 8.25
+		},
+		{
+			"exercise": "Skating",
+			"calories": 13.33
+		},
+		{
+			"exercise": "Swimming, medium impact",
+			"calories": 8.52
+		},
+		{
+			"exercise": "Free weights, light",
+			"calories": 3.53
+		},
+		{
+			"exercise": "Free weights, heavy",
+			"calories": 7.07
+		},
+		{
+			"exercise": "Machines, light",
+			"calories": 3.53
+		},
+		{
+			"exercise": "Machines, heavy",
+			"calories": 7.07
+		},
+		{
+			"exercise": "Cross-country skiing, medium impact",
+			"calories": 8.52
+		},
+		{
+			"exercise": "Skiing downhill, medium impact ",
+			"calories": 6.08
+		},
+		{
+			"exercise": "Jogging",
+			"calories": 9
+		},
+		{
+			"exercise": "Running 6 mph (9,7 km/h)",
+			"calories": 12.18
+		},
+		{
+			"exercise": "Running 8 mph (12.9 km/h)",
+			"calories": 15.09
+		},
+		{
+			"exercise": "Running 10 mph (16.09 km/h)",
+			"calories": 19.25
+		},
+		{
+			"exercise": "Walking slow 2,5 mph (4,5 km/h)",
+			"calories": 2.4
+		},
+		{
+			"exercise": "Walking, medium 3 mph (5 km/h)",
+			"calories": 3.4
+		},
+		{
+			"exercise": "Walking fast 3.7 mph (6.5 km/h)",
+			"calories": 4.59
+		},
+		{
+			"exercise": "Wash car",
+			"calories": 3.4
+		},
+		{
+			"exercise": "Bowling",
+			"calories": 1.9
+		},
+		{
+			"exercise": "Surfing",
+			"calories": 4
+		},
+		{
+			"exercise": "Playing Drums",
+			"calories": 3
+		},
+		{
+			"exercise": "Cleaning",
+			"calories": 2.4
+		},
+		{
+			"exercise": "Treadmill",
+			"calories": 7
+		},
+		{
+			"exercise": "Table Tennis",
+			"calories": 3
+		},
+		{
+			"exercise": "Cricket",
+			"calories": 4
+		},
+		{
+			"exercise": "Step",
+			"calories": 7
+		},
+		{
+			"exercise": "Horse riding",
+			"calories": 4
+		},
+		{
+			"exercise": "Cardio",
+			"calories": 10
+		},
+		{
+			"exercise": "Rope jumping",
+			"calories": 8.7
+		},
+		{
+			"exercise": "Sex, foreplay",
+			"calories": 0.5
+		},
+		{
+			"exercise": "Rock climbing",
+			"calories": 13
+		},
+		{
+			"exercise": "Body attack",
+			"calories": 13
+		},
+		{
+			"exercise": "Sex",
+			"calories": 5
+		},
+		{
+			"exercise": "Gardening",
+			"calories": 4
+		},
+		{
+			"exercise": "Situps, light effort",
+			"calories": 6
+		},
+		{
+			"exercise": "Racquetball",
+			"calories": 8
+		},
+		{
+			"exercise": "Push ups",
+			"calories": 5
+		},
+		{
+			"exercise": "Chopping wood",
+			"calories": 4.9
+		},
+		{
+			"exercise": "Volleyball, low impact",
+			"calories": 3
+		},
+		{
+			"exercise": "Volleyball, high impact",
+			"calories": 10
+		},
+		{
+			"exercise": "Squash, high impact",
+			"calories": 13
+		},
+		{
+			"exercise": "Scuba Diving",
+			"calories": 7
+		},
+		{
+			"exercise": "Rugby",
+			"calories": 13
+		},
+		{
+			"exercise": "Shopping",
+			"calories": 3
+		},
+		{
+			"exercise": "Stretching",
+			"calories": 2
+		},
+		{
+			"exercise": "Shoveling Snow",
+			"calories": 7
+		},
+		{
+			"exercise": "Body Combat",
+			"calories": 10
+		},
+		{
+			"exercise": "Body Jam",
+			"calories": 10
+		},
+		{
+			"exercise": "Boxing",
+			"calories": 10
+		},
+		{
+			"exercise": "Skipping",
+			"calories": 12
+		},
+		{
+			"exercise": "Cross trainer",
+			"calories": 11
+		},
+		{
+			"exercise": "Rowing, high impact ",
+			"calories": 12
+		},
+		{
+			"exercise": "Stepper",
+			"calories": 9
+		},
+		{
+			"exercise": "Boxing, high impact",
+			"calories": 14
+		},
+		{
+			"exercise": "Stair Master",
+			"calories": 9
+		},
+		{
+			"exercise": "Snowboarding",
+			"calories": 7
+		},
+		{
+			"exercise": "Tai Chi, light effort",
+			"calories": 6
+		},
+		{
+			"exercise": "Digging",
+			"calories": 5.6
+		},
+		{
+			"exercise": "Squash",
+			"calories": 7
+		},
+		{
+			"exercise": "Sit-ups",
+			"calories": 4.8
+		},
+		{
+			"exercise": "Kickfun",
+			"calories": 8
+		},
+		{
+			"exercise": "Climbing Stairs",
+			"calories": 10
+		},
+		{
+			"exercise": "Martial Arts",
+			"calories": 10
+		},
+		{
+			"exercise": "Running up stairs (quick)",
+			"calories": 14.9
+		},
+		{
+			"exercise": "MMA (Mixed Martial Arts)",
+			"calories": 10
+		},
+		{
+			"exercise": "Bouldering",
+			"calories": 13
+		},
+		{
+			"exercise": "Hiking",
+			"calories": 8
+		},
+		{
+			"exercise": "Abdominal (Ab) Crunch",
+			"calories": 1.58
+		},
+		{
+			"exercise": "Road Biking",
+			"calories": 11.95
+		},
+		{
+			"exercise": "Pectoral (chest) fly",
+			"calories": 4.08
+		},
+		{
+			"exercise": "Snowshoeing",
+			"calories": 7.07
+		},
+		{
+			"exercise": "Softball",
+			"calories": 4
+		},
+		{
+			"exercise": "Playing piano",
+			"calories": 2.3
+		},
+		{
+			"exercise": "Judo",
+			"calories": 11
+		},
+		{
+			"exercise": "Ironing",
+			"calories": 2.33
+		},
+		{
+			"exercise": "Running on sand",
+			"calories": 10.5
+		},
+		{
+			"exercise": "Ice skating",
+			"calories": 8
+		},
+		{
+			"exercise": "Wii Sports - Baseball",
+			"calories": 2.6
+		},
+		{
+			"exercise": "Wii Fit - Island Run",
+			"calories": 3.3
+		},
+		{
+			"exercise": "Wii Fit - Rhythm Boxing",
+			"calories": 2.6
+		},
+		{
+			"exercise": "Wii Fit - Super Hula Hoop",
+			"calories": 2.2
+		},
+		{
+			"exercise": "Wii Fit - Exercise (high intensity)",
+			"calories": 2.7
+		},
+		{
+			"exercise": "Sledding",
+			"calories": 4.9
+		},
+		{
+			"exercise": "Thigh machine",
+			"calories": 4.08
+		},
+		{
+			"exercise": "Aerobics, water",
+			"calories": 6.4
+		},
+		{
+			"exercise": "Cleaning windows",
+			"calories": 3.7
+		},
+		{
+			"exercise": "Netball",
+			"calories": 8.09
+		},
+		{
+			"exercise": "Strength Training",
+			"calories": 3.53
+		},
+		{
+			"exercise": "Power Plate",
+			"calories": 6.6
+		},
+		{
+			"exercise": "Military press",
+			"calories": 1.7
+		},
+		{
+			"exercise": "Roller skiing",
+			"calories": 8.3
+		},
+		{
+			"exercise": "Karate",
+			"calories": 10
+		},
+		{
+			"exercise": "Taekwondo (TKD)",
+			"calories": 11
+		},
+		{
+			"exercise": "Bench press",
+			"calories": 4.08
+		},
+		{
+			"exercise": "Tilting",
+			"calories": 3.55
+		},
+		{
+			"exercise": "Floorball, high impact ",
+			"calories": 7.87
+		},
+		{
+			"exercise": "Floorball, medium impact",
+			"calories": 5.9
+		},
+		{
+			"exercise": "Stand",
+			"calories": 1.3
+		},
+		{
+			"exercise": "Curling",
+			"calories": 4.6
+		},
+		{
+			"exercise": "Nordic walking",
+			"calories": 5.8
+		},
+		{
+			"exercise": "Inlines",
+			"calories": 11
+		},
+		{
+			"exercise": "Roller skating",
+			"calories": 6
+		},
+		{
+			"exercise": "Resistance bands",
+			"calories": 4.56
+		},
+		{
+			"exercise": "Hill intervals (running)",
+			"calories": 13
+		},
+		{
+			"exercise": "Playing guitar (rock and roll), standing",
+			"calories": 3
+		},
+		{
+			"exercise": "Kite skiing",
+			"calories": 9.3
+		},
+		{
+			"exercise": "Baseball",
+			"calories": 4
+		},
+		{
+			"exercise": "Polo",
+			"calories": 8
+		},
+		{
+			"exercise": "Parkour",
+			"calories": 8
+		},
+		{
+			"exercise": "Synchronized Swimming",
+			"calories": 7
+		},
+		{
+			"exercise": "Snowmobiling",
+			"calories": 4.08
+		},
+		{
+			"exercise": "AbSolution (Les Mills)",
+			"calories": 4
+		},
+		{
+			"exercise": "Chins",
+			"calories": 1
+		},
+		{
+			"exercise": "Calisthenics, light/moderate effort",
+			"calories": 4
+		},
+		{
+			"exercise": "Cross Skating",
+			"calories": 13
+		},
+		{
+			"exercise": "Wakeboarding",
+			"calories": 11.5
+		},
+		{
+			"exercise": "Deadlift",
+			"calories": 4.25
+		},
+		{
+			"exercise": "Triceps Pushdown ",
+			"calories": 4.08
+		},
+		{
+			"exercise": "TRX Suspension Training",
+			"calories": 8.33
+		},
+		{
+			"exercise": "Paragliding",
+			"calories": 4.5
+		},
+		{
+			"exercise": "Vaulting",
+			"calories": 12
+		},
+		{
+			"exercise": "bodyART",
+			"calories": 3
+		},
+		{
+			"exercise": "Raking lawn",
+			"calories": 5
+		},
+		{
+			"exercise": "Snorkeling",
+			"calories": 6
+		},
+		{
+			"exercise": "Walking with crutches",
+			"calories": 5
+		},
+		{
+			"exercise": "Walking upstairs",
+			"calories": 9
+		},
+		{
+			"exercise": "Billiards, pool",
+			"calories": 3
+		},
+		{
+			"exercise": "Handball",
+			"calories": 14
+		},
+		{
+			"exercise": "Lacrosse",
+			"calories": 9
+		},
+		{
+			"exercise": "Clay shooting",
+			"calories": 4
+		},
+		{
+			"exercise": "Motocross",
+			"calories": 5
+		},
+		{
+			"exercise": "Croquet",
+			"calories": 3
+		},
+		{
+			"exercise": "Triathlon",
+			"calories": 14
+		},
+		{
+			"exercise": "Biathlon",
+			"calories": 12
+		},
+		{
+			"exercise": "Orienteering",
+			"calories": 7.8
+		},
+		{
+			"exercise": "Mountain biking",
+			"calories": 10
+		},
+		{
+			"exercise": "Cross-country running",
+			"calories": 14
+		},
+		{
+			"exercise": "Running upstairs",
+			"calories": 18
+		},
+		{
+			"exercise": "Waterskiing",
+			"calories": 7
+		},
+		{
+			"exercise": "Ski jumping",
+			"calories": 8
+		},
+		{
+			"exercise": "Mogul skiing",
+			"calories": 10
+		},
+		{
+			"exercise": "Kayak",
+			"calories": 6
+		},
+		{
+			"exercise": "Sailing, sport",
+			"calories": 6
+		},
+		{
+			"exercise": "Frisbee playing",
+			"calories": 4
+		},
+		{
+			"exercise": "Skateboarding",
+			"calories": 6
+		},
+		{
+			"exercise": "Water polo",
+			"calories": 13
+		},
+		{
+			"exercise": "Wind surfing",
+			"calories": 7
+		},
+		{
+			"exercise": "Fencing",
+			"calories": 7
+		},
+		{
+			"exercise": "Salsa",
+			"calories": 7
+		},
+		{
+			"exercise": "Pole dancing",
+			"calories": 6
+		},
+		{
+			"exercise": "Zumba",
+			"calories": 10
+		},
+		{
+			"exercise": "Cheerleading",
+			"calories": 7
+		},
+		{
+			"exercise": "Aikido",
+			"calories": 10
+		},
+		{
+			"exercise": "Muay Thai boxing",
+			"calories": 12
+		},
+		{
+			"exercise": "Kendo",
+			"calories": 10
+		},
+		{
+			"exercise": "Kickboxing",
+			"calories": 8.7
+		},
+		{
+			"exercise": "Crossfit",
+			"calories": 12
+		},
+		{
+			"exercise": "Circuit training",
+			"calories": 9
+		},
+		{
+			"exercise": "Power yoga",
+			"calories": 8
+		},
+		{
+			"exercise": "Canoeing",
+			"calories": 10
+		},
+		{
+			"exercise": "Tae Bo",
+			"calories": 12
+		},
+		{
+			"exercise": "Tai Chi",
+			"calories": 5
+		},
+		{
+			"exercise": "Calisthenics",
+			"calories": 9
+		},
+		{
+			"exercise": "Boxning, sparring",
+			"calories": 11
+		},
+		{
+			"exercise": "Wrestling",
+			"calories": 7
+		},
+		{
+			"exercise": "Horse riding: Gallop",
+			"calories": 5
+		},
+		{
+			"exercise": "Horse riding: Jumping",
+			"calories": 5
+		},
+		{
+			"exercise": "Horse riding: Trotting ",
+			"calories": 8
+		},
+		{
+			"exercise": "Horse riding: Dressage",
+			"calories": 4
+		},
+		{
+			"exercise": "Soccer professional",
+			"calories": 12
+		},
+		{
+			"exercise": "Skiing downhill, high impact",
+			"calories": 9
+		},
+		{
+			"exercise": "Skiing downhill, low impact",
+			"calories": 5
+		},
+		{
+			"exercise": "Cross-country skiing, low impact",
+			"calories": 8
+		},
+		{
+			"exercise": "Cross-country skiing, high impact",
+			"calories": 12.6
+		},
+		{
+			"exercise": "Skating general",
+			"calories": 8
+		},
+		{
+			"exercise": "Skating, high impact",
+			"calories": 13.33
+		},
+		{
+			"exercise": "Rowing, medium impact",
+			"calories": 8.5
+		},
+		{
+			"exercise": "Rowing, low impact",
+			"calories": 4
+		},
+		{
+			"exercise": "Elliptical, high impact",
+			"calories": 11
+		},
+		{
+			"exercise": "Elliptical, medium impact",
+			"calories": 7.5
+		},
+		{
+			"exercise": "Elliptical, low impact",
+			"calories": 5.5
+		},
+		{
+			"exercise": "Swimming, low impact",
+			"calories": 7
+		},
+		{
+			"exercise": "Swimming, high impact",
+			"calories": 12
+		},
+		{
+			"exercise": "Swimming, breaststroke",
+			"calories": 10
+		},
+		{
+			"exercise": "Swimming, treading",
+			"calories": 12
+		},
+		{
+			"exercise": "Swimming, butterfly",
+			"calories": 13
+		},
+		{
+			"exercise": "Swimming, backstroke",
+			"calories": 8
+		},
+		{
+			"exercise": "Swimming: general, leisurely",
+			"calories": 4.9
+		},
+		{
+			"exercise": "Running 4 mph (6.4 km/h)",
+			"calories": 7.5
+		},
+		{
+			"exercise": "Running 5 mph (8 km/h)",
+			"calories": 9.2
+		},
+		{
+			"exercise": "Running 7 mph (11.3 km/h)",
+			"calories": 13.23
+		},
+		{
+			"exercise": "Running 7.5 mph (12.1 km/h) ",
+			"calories": 14.38
+		},
+		{
+			"exercise": "Running 9 mph (14.5 km/h)",
+			"calories": 17.25
+		},
+		{
+			"exercise": "Running 11 mph (17.7 km/h)",
+			"calories": 20
+		},
+		{
+			"exercise": "Boxing: Cushion",
+			"calories": 10
+		},
+		{
+			"exercise": "Leg press",
+			"calories": 5.8
+		},
+		{
+			"exercise": "Kitesurfing",
+			"calories": 9.33
+		},
+		{
+			"exercise": "Driving motor cycle",
+			"calories": 1.5
+		},
+		{
+			"exercise": "Rollerblading",
+			"calories": 6.21
+		},
+		{
+			"exercise": "Wander",
+			"calories": 2.04
+		},
+		{
+			"exercise": "Stroll",
+			"calories": 2.04
+		},
+		{
+			"exercise": "Amble",
+			"calories": 2.04
+		},
+		{
+			"exercise": "Lunges",
+			"calories": 9.3
+		},
+		{
+			"exercise": "Free weights, isolated small muscles",
+			"calories": 3.53
+		},
+		{
+			"exercise": "WOD (crossfit)",
+			"calories": 12
+		},
+		{
+			"exercise": "Tabata",
+			"calories": 12
+		},
+		{
+			"exercise": "Curl-ups",
+			"calories": 6
+		},
+		{
+			"exercise": "Crunches",
+			"calories": 6
+		},
+		{
+			"exercise": "Hatha yoga",
+			"calories": 3
+		},
+		{
+			"exercise": "Flex soft",
+			"calories": 3
+		},
+		{
+			"exercise": "Backpacking",
+			"calories": 9.1
+		},
+		{
+			"exercise": "Aquathenics (Aquatic Calisthenics)",
+			"calories": 5
+		},
+		{
+			"exercise": "Circuit training (fitness center)",
+			"calories": 9
+		},
+		{
+			"exercise": "Kettlebell workout, interval or continuous kettlebell swings",
+			"calories": 11.4
+		},
+		{
+			"exercise": "Bikram Yoga",
+			"calories": 8
+		},
+		{
+			"exercise": "Hot MOJO",
+			"calories": 8
+		},
+		{
+			"exercise": "Gymnastics",
+			"calories": 9
+		},
+		{
+			"exercise": "Muscle building",
+			"calories": 3.53
+		},
+		{
+			"exercise": "Biceps curl",
+			"calories": 3.53
+		},
+		{
+			"exercise": "Press ups",
+			"calories": 6
+		},
+		{
+			"exercise": "Pull ups",
+			"calories": 6
+		},
+		{
+			"exercise": "Dips",
+			"calories": 6
+		},
+		{
+			"exercise": "Indoor walking",
+			"calories": 5.8
+		},
+		{
+			"exercise": "Sh'bam",
+			"calories": 10
+		},
+		{
+			"exercise": "Dance aerobic",
+			"calories": 10
+		},
+		{
+			"exercise": "Dance step",
+			"calories": 10
+		},
+		{
+			"exercise": "Powerlifting",
+			"calories": 9.3
+		},
+		{
+			"exercise": "Climbing",
+			"calories": 13
+		},
+		{
+			"exercise": "Barbell workout",
+			"calories": 4.9
+		},
+		{
+			"exercise": "Vacuum cleaning",
+			"calories": 3.85
+		},
+		{
+			"exercise": "Aqua Power",
+			"calories": 5
+		},
+		{
+			"exercise": "Hydrofit",
+			"calories": 5
+		},
+		{
+			"exercise": "Barbell workout interval",
+			"calories": 5.8
+		},
+		{
+			"exercise": "Freeletics, Hades",
+			"calories": 10
+		},
+		{
+			"exercise": "Freeletics, Venus",
+			"calories": 10
+		},
+		{
+			"exercise": "Freeletics, Aphrodite",
+			"calories": 12
+		},
+		{
+			"exercise": "Freeletics, Apollon",
+			"calories": 12
+		},
+		{
+			"exercise": "Ballet, modern, or jazz, general, rehearsal or class",
+			"calories": 5.8
+		},
+		{
+			"exercise": "Ballet, modern, or jazz, performance, vigorous effort",
+			"calories": 7.9
+		},
+		{
+			"exercise": "X-Jumps",
+			"calories": 10
+		},
+		{
+			"exercise": "Jumpin Jacks",
+			"calories": 10
+		},
+		{
+			"exercise": "Tuck Jumps",
+			"calories": 10
+		},
+		{
+			"exercise": "Broad Jump",
+			"calories": 10
+		},
+		{
+			"exercise": "Burpee",
+			"calories": 12
+		},
+		{
+			"exercise": "Flexi-Bar",
+			"calories": 11
+		},
+		{
+			"exercise": "trampoline, recreational",
+			"calories": 4.08
+		},
+		{
+			"exercise": "Trampoline, competitive",
+			"calories": 5.25
+		},
+		{
+			"exercise": "Hula hoop",
+			"calories": 7
+		},
+		{
+			"exercise": "EMS/EMA-Training",
+			"calories": 4.1
+		},
+		{
+			"exercise": "Horse grooming",
+			"calories": 4
+		},
+		{
+			"exercise": "Shoveling (horse box)",
+			"calories": 7
+		},
+		{
+			"exercise": "Archery",
+			"calories": 4
+		},
+		{
+			"exercise": "Piloxing",
+			"calories": 11
+		},
+		{
+			"exercise": "Track and field (e.g. shot, discus, hammer throw)",
+			"calories": 4.6
+		},
+		{
+			"exercise": "Track and field (e.g. high jump, long jump, triple jump, javelin, pole vault)",
+			"calories": 7
+		},
+		{
+			"exercise": "Track and field (e.g. steeplechase, hurdles)",
+			"calories": 11.6
+		},
+		{
+			"exercise": "High-Intensity Interval Training (HIIT)",
+			"calories": 12
+		},
+		{
+			"exercise": "Power hour (class at the facility)",
+			"calories": 5.8
+		},
+		{
+			"exercise": "Zumba (class at the facility)",
+			"calories": 10
+		},
+		{
+			"exercise": "Gymnastics medium impact",
+			"calories": 4.9
+		},
+		{
+			"exercise": "Pistols",
+			"calories": 3.53
+		},
+		{
+			"exercise": "Squats",
+			"calories": 5.8
+		},
+		{
+			"exercise": "Les mills GRIT cardio",
+			"calories": 10
+		},
+		{
+			"exercise": "Les mills GRIT plyo",
+			"calories": 10
+		},
+		{
+			"exercise": "Les mills GRIT strenght",
+			"calories": 8
+		},
+		{
+			"exercise": "Body Balance (Les Mills)",
+			"calories": 4
+		},
+		{
+			"exercise": "Core (Les Mills)",
+			"calories": 4
+		},
+		{
+			"exercise": "Les Mills RPM",
+			"calories": 10
+		},
+		{
+			"exercise": "Bodystep (Les Mills)",
+			"calories": 9
+		},
+		{
+			"exercise": "Military training (Bootcamp)",
+			"calories": 12
+		},
+		{
+			"exercise": "CrossNature®",
+			"calories": 10
+		},
+		{
+			"exercise": "Muck",
+			"calories": 7
+		},
+		{
+			"exercise": "Power Walking",
+			"calories": 6
+		},
+		{
+			"exercise": "Aerial Hoop",
+			"calories": 5.25
+		},
+		{
+			"exercise": "Bodybuilding",
+			"calories": 3.53
+		},
+		{
+			"exercise": "DeepWORK",
+			"calories": 8
+		},
+		{
+			"exercise": "IRON SYSTEM",
+			"calories": 8
+		},
+		{
+			"exercise": "Hot Iron",
+			"calories": 8
+		},
+		{
+			"exercise": "Back Squat",
+			"calories": 3.24
+		},
+		{
+			"exercise": "Shoulder Press",
+			"calories": 25
+		},
+		{
+			"exercise": "Backcountry skiing",
+			"calories": 21
+		},
+		{
+			"exercise": "Barre",
+			"calories": 5
+		},
+		{
+			"exercise": "Russian Twist",
+			"calories": 6
+		},
+		{
+			"exercise": "Leg Lifts",
+			"calories": 5
+		},
+		{
+			"exercise": "Plank",
+			"calories": 4
+		},
+		{
+			"exercise": "Hip raise",
+			"calories": 5
+		},
+		{
+			"exercise": "Gym - heavy leg session (ex. squat, leg press, lunges)",
+			"calories": 5.6
+		},
+		{
+			"exercise": "Gym - light leg session (ex. leg lifts, calves, kickbacks)",
+			"calories": 3
+		},
+		{
+			"exercise": "Gym - heavy upper body (ex. chins, row, deadlifts)",
+			"calories": 6.3
+		},
+		{
+			"exercise": "Gym - 'disco' session (ex. bench press, biceps curls, sit ups)",
+			"calories": 2.6
+		},
+		{
+			"exercise": "Gym - light upper body (ex. biceps curls, abs, scull crusher)",
+			"calories": 2.6
+		},
+		{
+			"exercise": "Cable exercise",
+			"calories": 3
+		},
+		{
+			"exercise": "Full-Body Workout",
+			"calories": 4
+		},
+		{
+			"exercise": "7-Minute Workout",
+			"calories": 8
+		},
+		{
+			"exercise": "Mowing",
+			"calories": 5
+		},
+		{
+			"exercise": "Stand Up Paddle Boarding (SUP)",
+			"calories": 6
+		},
+		{
+			"exercise": "Tap Dance",
+			"calories": 8
+		},
+		{
+			"exercise": "Flag Spinning / Flagging Dance",
+			"calories": 3
+		},
+		{
+			"exercise": "Sweat with Katie",
+			"calories": 7
+		},
+		{
+			"exercise": "Cross Country Ski Machine",
+			"calories": 8
+		},
+		{
+			"exercise": "Lagree / Megaformer",
+			"calories": 8
+		},
+		{
+			"exercise": "Jillian Michaels Shred Challenge Level 1",
+			"calories": 9
+		},
+		{
+			"exercise": "Jillian Michaels Shred Challenge Level 2",
+			"calories": 9
+		},
+		{
+			"exercise": "Jillian Michaels Shred Challenge Level 3",
+			"calories": 9
+		},
+		{
+			"exercise": "Aqua Jogging",
+			"calories": 8
+		},
+		{
+			"exercise": "Forest Walk",
+			"calories": 5
+		},
+		{
+			"exercise": "Plogging",
+			"calories": 11
+		}
+	]
+}
